@@ -1,0 +1,14 @@
+{
+  "name": "crypto-services",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/crypto-io/crypto-services",
+  "author": "VandeurenGlenn <vandeurenglenn@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@leofcoin/paper-wallet": "^0.1.4",
+    "koa": "^2.7.0",
+    "koa-static": "^5.0.0"
+  }
+}
